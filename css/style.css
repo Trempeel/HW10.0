@@ -202,6 +202,10 @@ footer {
 .footer-address {
    padding-top: 33px;
 }
+.features-list {
+   padding-top: 125px;
+   padding-bottom: 50px;
+}
 /* main portfolia */
 .features-link {
    font-family: var(--font-family);
@@ -228,6 +232,7 @@ footer {
    line-height: 2.00;
    letter-spacing: 0.06em;
    color: var(--seriy);
+   padding-bottom: 24px;
 }
 .project-type {
    font-family: var(--font-family);
@@ -236,4 +241,5 @@ footer {
    line-height: 1.87;
    letter-spacing: 0.03em;
    color: var(--seriychik);
+   padding-bottom: 60px;
 }
